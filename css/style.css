@@ -70,6 +70,7 @@ nav.navbar {
 
 nav.navbar ul a {
     font-weight: bold;
+    font-size: 18px;
     margin: 10px 15px;
     color: #1d3557 !important;
     z-index: 10001;
