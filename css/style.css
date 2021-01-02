@@ -54,19 +54,14 @@ button {
     padding: 0
 }
 
-body {
-    font-size: 1.1rem;
-    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
-}
-
 /* navbar */
 
 nav.navbar {
     position: absolute;
+    background-color: #fff;
     height: 70px;
     top: 0;
     left: 0;
-    background-color: #fff;
     color: #1d3557;
     width: 100%;
     z-index: 1000;
