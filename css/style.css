@@ -74,7 +74,7 @@ nav.navbar {
 
 nav.navbar ul a {
     font-weight: bold;
-    margin: -10px 15px;
+    margin: 10px 15px;
     color: #1d3557 !important;
     z-index: 10001;
 }
@@ -84,7 +84,7 @@ nav.navbar ul a:hover {
 
 nav.navbar ul {
     z-index: 10001;
-    margin: -10px 15px;
+    margin: 10px 15px;
 }
 
 nav.navbar .search-container {
