@@ -72,16 +72,19 @@ nav.navbar {
     font-family: 'Roboto', 'Oxygen', 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-nav.navbar a, nav.navbar ul li a {
+nav.navbar ul a {
+    font-weight: bold;
+    margin: -10px 15px;
     color: #1d3557 !important;
+    z-index: 10001;
 }
-
-nav.navbar a, nav.navbar ul li a:hover {
+nav.navbar ul a:hover {
     color: #d90429 !important;
 }
 
-nav.navbar ul li {
-    padding: 0 15px;
+nav.navbar ul {
+    z-index: 10001;
+    margin: -10px 15px;
 }
 
 nav.navbar .search-container {
