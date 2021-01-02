@@ -56,6 +56,11 @@ button {
 
 /* navbar */
 
+.logo{
+    margin-top: 7px;
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
+  }
+
 nav.navbar {
     position: absolute;
     background-color: #fff;
