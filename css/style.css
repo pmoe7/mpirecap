@@ -56,7 +56,7 @@ button {
 
 body {
     font-size: 1.1rem;
-    font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
 }
 
 /* navbar */
@@ -70,7 +70,7 @@ nav.navbar {
     color: #1d3557;
     width: 100%;
     z-index: 1000;
-    font-family: 'Roboto', 'Oxygen', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
 }
 
 nav.navbar ul a {
@@ -106,7 +106,7 @@ nav.navbar form {
 header {
     position: relative;
     color: #FFF;
-    font-family: 'Roboto', 'Oxygen', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
 }
 
 header .container {
@@ -152,7 +152,7 @@ header button:hover a {
 .about-us {
     position: relative;
     padding: 100px 0;
-    font-family: 'Roboto', 'Oxygen', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
 }
 
 .about-us .row > .col-lg-6:first-of-type {
@@ -276,7 +276,7 @@ header button:hover a {
 
 .services {
     margin-bottom: 100px;
-    font-family: 'Roboto', 'Oxygen', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
 }
 
 .services .slide {
@@ -325,7 +325,7 @@ header button:hover a {
 
 .agency {
     background-image: url('../imgs/agency.jpg');
-    font-family: 'Roboto', 'Oxygen', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
     background-size: cover;
 }
 
@@ -365,7 +365,7 @@ header button:hover a {
 
 .statistics {
     padding: 50px 0;
-    font-family: 'Roboto', 'Oxygen', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
 }
 
 .statistics i, .statistics p {

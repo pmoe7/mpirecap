@@ -70,17 +70,17 @@
             animation: moveup 1.8s cubic-bezier(0.39, 0.575, 0.565, 1) infinite normal;
   }
   
-  .landing {
+.landing {
     display: flex;
     justify-content: center;
     align-items: bottom;
   }
+  
+.logo{
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
+  }
 
-
-
-
-
-  #stars {
+#stars {
     width: 1px;
     height: 1px;
     background: transparent;
